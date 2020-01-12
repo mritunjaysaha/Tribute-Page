@@ -1,0 +1,74 @@
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.img-center {
+    display: block;
+    margin: auto;
+}
+
+.bar {
+    background-color: red;
+}
+
+h1 {
+    font-family: 'Fjalla One';
+    color: #131;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    background: #fff;
+}
+
+.img-caption-text {
+    color: #fff;
+    font-size: 20px;
+    background: #131338;
+}
+
+
+a {
+    color: #000;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+footer {
+    background: black;
+    color: white;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    font-size: 20px;
+}
+.icon-size{
+    width: 50%;;
+}
+#icons{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    justify-content: center;
+    order: 2;
+}
+footer{
+    order: 1;
+}
+
+h3{
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 30px;
+}
+
+.white-text{
+    color: #fff;
+}
